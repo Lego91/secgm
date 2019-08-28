@@ -158,3 +158,15 @@ h1 {
 
 
 
+input {border-radius: 3px; 
+color: #999; 
+cursor: text; 
+font-size: 15px; 
+font-weight: 300; 
+left:57%; 
+bottom:25%; 
+padding: 4px; 
+position: absolute; 
+text-align: center; 
+z-index: 2; 
+}
