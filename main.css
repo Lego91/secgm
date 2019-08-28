@@ -168,5 +168,6 @@ bottom:25%;
 padding: 4px; 
 position: absolute; 
 text-align: center; 
-z-index: 2; 
+z-index: 2;
+content: \f002;
 }
